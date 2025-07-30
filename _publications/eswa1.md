@@ -1,7 +1,7 @@
 ---
 title: "Multi-view aggregation and multi-relation alignment for few-shot fine-grained recognition"
 collection: publications
-category: manuscripts
+category: manuscripts #conferences
 permalink: /publication/eswa1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-7-15
