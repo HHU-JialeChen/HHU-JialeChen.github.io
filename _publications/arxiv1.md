@@ -1,0 +1,14 @@
+---
+title: "Self-Supervised Contrastive Learning for Multi-Label Images"
+collection: publications
+category: manuscripts #conferences
+#permalink: /publication/kbs1
+excerpt: 'Self-supervised learning (SSL) has demonstrated its effectiveness in learning representations through comparison methods that align with human intuition. However, mainstream SSL methods heavily rely on high body datasets with single label, such as ImageNet, resulting in intolerable pre-training overhead. Besides, more general multi-label images are frequently overlooked in SSL, despite their potential for richer semantic information and broader applicability in downstream scenarios. Therefore, we tailor the mainstream SSL approach to guarantee excellent representation learning capabilities using fewer multi-label images. Firstly, we propose a block-wise augmentation module aimed at extracting additional potential positive view pairs from multi-label images. Subsequently, an image-aware contrastive loss is devised to establish connections between these views, thereby facilitating the extraction of semantically consistent representations. Comprehensive linear fine-tuning and transfer learning validate the competitiveness of our approach despite challenging sample quality and quantity.'
+date: 2025-6-29
+venue: 'arXiv'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.48550/arXiv.2506.23156'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Jiale Chen. Self-Supervised Contrastive Learning for Multi-Label Images. arXiv, 2025.'
+---
+Self-supervised learning (SSL) has demonstrated its effectiveness in learning representations through comparison methods that align with human intuition. However, mainstream SSL methods heavily rely on high body datasets with single label, such as ImageNet, resulting in intolerable pre-training overhead. Besides, more general multi-label images are frequently overlooked in SSL, despite their potential for richer semantic information and broader applicability in downstream scenarios. Therefore, we tailor the mainstream SSL approach to guarantee excellent representation learning capabilities using fewer multi-label images. Firstly, we propose a block-wise augmentation module aimed at extracting additional potential positive view pairs from multi-label images. Subsequently, an image-aware contrastive loss is devised to establish connections between these views, thereby facilitating the extraction of semantically consistent representations. Comprehensive linear fine-tuning and transfer learning validate the competitiveness of our approach despite challenging sample quality and quantity.
