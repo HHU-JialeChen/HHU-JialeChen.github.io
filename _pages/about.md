@@ -13,4 +13,4 @@ My research focuses on few-shot learning, particularly in finegrained image clas
 
 I'm always eager to learn and improve, so I warmly welcome any suggestions or guidance from fellow researchers. Feel free to reach out via email! 😊
 
-![views](https://komarev.com/ghpvc/?username=你的GitHub用户名&label=Profile+views&color=0e75b6&style=flat)
+![views](https://komarev.com/ghpvc/?username=HHU-JialeChen&label=Profile+views&color=0e75b6&style=flat)
