@@ -13,7 +13,7 @@ My research focuses on few-shot learning, particularly in finegrained image clas
 
 I'm always eager to learn and improve, so I warmly welcome any suggestions or guidance from fellow researchers. Feel free to reach out via email! 😊
 
-## Selected Publications
+## Publications
 
 {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
 {% for post in sorted_pubs %}
